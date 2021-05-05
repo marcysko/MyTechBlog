@@ -6,7 +6,7 @@
 ## Description
 Built a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts. 
 ## Web Link
-https://pure-eyrie-17676.herokuapp.com/
+https://intense-castle-63484.herokuapp.com/ 
 
 [![Screen-Shot-2021-05-04-at-1-28-04-PM.png](https://i.postimg.cc/sgY8pCJV/Screen-Shot-2021-05-04-at-1-28-04-PM.png)](https://postimg.cc/DSzBTDDD)
 
